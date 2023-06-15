@@ -25,7 +25,7 @@ Quais são os softwares e/ou ferramentas necessárias para a aula?
 
 ## Apresentação e contextualização
 
-A apresentação será feita a partir de slides alternando entre os mesmos e o código criado 
+A apresentação será feita a partir de slides + momentos para codar e explicar cada linha de código.  
 
 ## Construção do conteúdo
 
@@ -74,6 +74,6 @@ Os exercícios devem ser entregues no Classroom com o link do repositório do Gi
 
 Documentação do React: [Learn React](https://react.dev/learn)
 
-Introução ao React, mas de forma interativa: [A gentle introduction to React, but visualized](https://react.gg/)
+Introdução ao React, mas de forma interativa: [A gentle introduction to React, but visualized](https://react.gg/)
 
-Introução ao React através do vídeo do canal Código Fonte: [React JS // Dicionário do Programador - Canal Código Fonte](https://www.youtube.com/watch?v=NhUr8cwDiiM)
+Introdução ao React através do vídeo do canal Código Fonte: [React JS // Dicionário do Programador - Canal Código Fonte](https://www.youtube.com/watch?v=NhUr8cwDiiM)
